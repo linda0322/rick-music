@@ -64,7 +64,7 @@ body {
   right: 15px;
   left: 15px;
   padding: 13px 22px 10px 184px;
-  background-color: #fff7f7;
+  background-color: #f0f9fb;
   border-radius: 15px 15px 0 0;
   transition: 0.3s ease top;
   z-index: 1;
@@ -104,14 +104,14 @@ body {
 #track-length {
   color: transparent;
   font-size: 11px;
-  background-color: #ffe8ee;
+  background-color: #dcf1f6;
   border-radius: 10px;
   transition: 0.3s ease all;
 }
 
 #track-time.active #current-time,
 #track-time.active #track-length {
-  color: #f86d92;
+  color: #9fd9e7;
   background-color: transparent;
 }
 
@@ -123,7 +123,7 @@ body {
 }
 
 #seek-bar-container {
-  background-color: #ffe8ee;
+  background-color: #b3e1ec;
   cursor: pointer;
 }
 
@@ -159,7 +159,7 @@ body {
   bottom: 0;
   left: 0;
   width: 0;
-  background-color: #fd6d94;
+  background-color: #8ad1e2;
   transition: 0.2s ease width;
   z-index: 1;
 }
